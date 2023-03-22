@@ -3,11 +3,9 @@
 <h2>Technologies Used</h2>
 1. React js <br/>
 2. React Native <br/>
-3. Rapid Api (JSearch) <br/>
 
 
 <h2>Functions</h2>
-1. Search Job <br/>
-2. List Jobs <br/>
-3. View full details of the selected job <br/>
-4. Apply on the google job site <br/>
+1. Search NFT <br/>
+2. List of Bid NFT <br/>
+3. View NFT Details
